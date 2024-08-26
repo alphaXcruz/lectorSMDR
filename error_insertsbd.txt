@@ -1,0 +1,24 @@
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131359, duracion=0, troncal=0, linea=9031, interno=3251, cuenta=3518, numero=62015802, tipoLlamada=0, estadoRegistro=true, idUsuario=JOSUE OVIE)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131311, duracion=17, troncal=0, linea=3211, interno=3156, cuenta=, numero=3211, tipoLlamada=0, estadoRegistro=true, idUsuario=CARMEN A A)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131304, duracion=0, troncal=0, linea=3113, interno=3531, cuenta=, numero=3113, tipoLlamada=0, estadoRegistro=true, idUsuario=ENC PLAT L)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131227, duracion=43, troncal=0, linea=3123, interno=3221, cuenta=, numero=3123, tipoLlamada=0, estadoRegistro=true, idUsuario=SIN USUARI)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131238, duracion=28, troncal=0, linea=3172, interno=3243, cuenta=, numero=3172, tipoLlamada=0, estadoRegistro=true, idUsuario=JULIA SULL)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131200, duracion=58, troncal=0, linea=3156, interno=3211, cuenta=, numero=3156, tipoLlamada=0, estadoRegistro=true, idUsuario=ENC PLAT A)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131137, duracion=0, troncal=0, linea=0546, interno=3376, cuenta=, numero=0546, tipoLlamada=0, estadoRegistro=true, idUsuario=JHOMARA LI)
+Mensaje de error: A result set was generated for update.
+
+Error al insertar llamada: Llamada(idEstado=1, idCentral=10.60.70.2, fecha=21082024, hora=131052, duracion=47, troncal=0, linea=3221, interno=3215, cuenta=, numero=3221, tipoLlamada=0, estadoRegistro=true, idUsuario=MARIA ALDA)
+Mensaje de error: A result set was generated for update.
+
